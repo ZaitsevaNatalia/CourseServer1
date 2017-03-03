@@ -2,57 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fad6395b-e67e-482c-8612-9167eaddf169" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cources.server/softgroup/services/authorization/authorization.imp/pom.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cources.server/softgroup/services/authorization/authorization.imp/src/main/java/com/softgroup/authorithation/impl/handler/LoginHundler.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cources.server/softgroup/services/authorization/authorization.imp/src/main/java/com/softgroup/authorithation/impl/handler/RegistrationHundler.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cources.server/softgroup/services/authorization/authorization.imp/src/main/java/com/softgroup/authorithation/impl/router/AuthorizationRouter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cources.server/softgroup/services/authorization/authorization.imp/src/test/java/com/softgroup/authorization/impl/AuthorizationImplTest.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cources.server/softgroup/basis/common-factory/src/main/java/com/softgroup/common/factory/CoreFactory.java" afterPath="$PROJECT_DIR$/cources.server/softgroup/basis/common-factory/src/main/java/com/softgroup/common/factory/CoreFactory.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cources.server/softgroup/basis/common-factory/src/main/java/com/softgroup/common/factory/HadlerFactoryCommand.java" afterPath="$PROJECT_DIR$/cources.server/softgroup/basis/common-factory/src/main/java/com/softgroup/common/factory/HadlerFactoryCommand.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cources.server/softgroup/basis/common-factory/src/main/java/com/softgroup/common/factory/HandlerFactoryType.java" afterPath="$PROJECT_DIR$/cources.server/softgroup/basis/common-factory/src/main/java/com/softgroup/common/factory/HandlerFactoryType.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cources.server/softgroup/basis/common-router/pom.xml" afterPath="$PROJECT_DIR$/cources.server/softgroup/basis/common-router/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cources.server/softgroup/basis/common-router/src/main/java/com/softgroup/common/router/api/AbstractRouterHandler.java" afterPath="$PROJECT_DIR$/cources.server/softgroup/basis/common-router/src/main/java/com/softgroup/common/router/api/AbstractRouterHandler.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cources.server/softgroup/basis/common-router/src/main/java/com/softgroup/common/router/api/CoreRouter.java" afterPath="$PROJECT_DIR$/cources.server/softgroup/basis/common-router/src/main/java/com/softgroup/common/router/api/CoreRouter.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cources.server/softgroup/basis/pom.xml" afterPath="$PROJECT_DIR$/cources.server/softgroup/basis/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cources.server/softgroup/pom.xml" afterPath="$PROJECT_DIR$/cources.server/softgroup/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cources.server/softgroup/services/authorization/authorization-api/pom.xml" afterPath="$PROJECT_DIR$/cources.server/softgroup/services/authorization/authorization-api/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cources.server/softgroup/services/authorization/authorization-api/src/main/java/com/softgroup/authorization/api/message/SmsConfirmRequest.java" afterPath="$PROJECT_DIR$/cources.server/softgroup/services/authorization/authorization-api/src/main/java/com/softgroup/authorization/api/message/SmsConfirmRequest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cources.server/softgroup/services/authorization/authorization-api/src/main/java/com/softgroup/authorization/api/message/SmsConfirmResponse.java" afterPath="$PROJECT_DIR$/cources.server/softgroup/services/authorization/authorization-api/src/main/java/com/softgroup/authorization/api/message/SmsConfirmResponse.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cources.server/softgroup/services/authorization/authorization-impl/src/main/java/com/softgroup/authorithation/impl/factory/AuthorizationHandlerFactory.java" afterPath="$PROJECT_DIR$/cources.server/softgroup/services/authorization/authorization-impl/src/main/java/com/softgroup/authorithation/impl/factory/AuthorizationHandlerFactory.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cources.server/softgroup/services/authorization/authorization-impl/src/main/java/com/softgroup/authorithation/impl/handler/SmsConfirmHandler.java" afterPath="$PROJECT_DIR$/cources.server/softgroup/services/authorization/authorization-impl/src/main/java/com/softgroup/authorithation/impl/handler/SmsConfirmHandler.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cources.server/softgroup/services/authorization/pom.xml" afterPath="$PROJECT_DIR$/cources.server/softgroup/services/authorization/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cources.server/softgroup/services/pom.xml" afterPath="$PROJECT_DIR$/cources.server/softgroup/services/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cources.server/softgroup/services/profile/pom.xml" afterPath="$PROJECT_DIR$/cources.server/softgroup/services/profile/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cources.server/softgroup/services/profile/profile-api/pom.xml" afterPath="$PROJECT_DIR$/cources.server/softgroup/services/profile/profile-api/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cources.server/softgroup/services/profile/profile-api/src/main/java/com/softgroup/profile/api/message/ContactsSyncRequest.java" afterPath="$PROJECT_DIR$/cources.server/softgroup/services/profile/profile-api/src/main/java/com/softgroup/profile/api/message/ContactsSyncRequest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cources.server/softgroup/services/profile/profile-api/src/main/java/com/softgroup/profile/api/message/ContactsSyncResponse.java" afterPath="$PROJECT_DIR$/cources.server/softgroup/services/profile/profile-api/src/main/java/com/softgroup/profile/api/message/ContactsSyncResponse.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cources.server/softgroup/services/profile/profile-api/src/main/java/com/softgroup/profile/api/message/GetContactProfilesRequest.java" afterPath="$PROJECT_DIR$/cources.server/softgroup/services/profile/profile-api/src/main/java/com/softgroup/profile/api/message/GetContactProfilesRequest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cources.server/softgroup/services/profile/profile-api/src/main/java/com/softgroup/profile/api/message/GetContactProfilesResponse.java" afterPath="$PROJECT_DIR$/cources.server/softgroup/services/profile/profile-api/src/main/java/com/softgroup/profile/api/message/GetContactProfilesResponse.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cources.server/softgroup/services/profile/profile-api/src/main/java/com/softgroup/profile/api/message/GetLastTimeOnlineRequest.java" afterPath="$PROJECT_DIR$/cources.server/softgroup/services/profile/profile-api/src/main/java/com/softgroup/profile/api/message/GetLastTimeOnlineRequest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cources.server/softgroup/services/profile/profile-api/src/main/java/com/softgroup/profile/api/message/GetLastTimeOnlineResponse.java" afterPath="$PROJECT_DIR$/cources.server/softgroup/services/profile/profile-api/src/main/java/com/softgroup/profile/api/message/GetLastTimeOnlineResponse.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cources.server/softgroup/services/profile/profile-api/src/main/java/com/softgroup/profile/api/message/GetMyProfileRequest.java" afterPath="$PROJECT_DIR$/cources.server/softgroup/services/profile/profile-api/src/main/java/com/softgroup/profile/api/message/GetMyProfileRequest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cources.server/softgroup/services/profile/profile-api/src/main/java/com/softgroup/profile/api/message/GetMyProfileResponse.java" afterPath="$PROJECT_DIR$/cources.server/softgroup/services/profile/profile-api/src/main/java/com/softgroup/profile/api/message/GetMyProfileResponse.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cources.server/softgroup/services/profile/profile-api/src/main/java/com/softgroup/profile/api/message/GetOtherProfilesRequest.java" afterPath="$PROJECT_DIR$/cources.server/softgroup/services/profile/profile-api/src/main/java/com/softgroup/profile/api/message/GetOtherProfilesRequest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cources.server/softgroup/services/profile/profile-api/src/main/java/com/softgroup/profile/api/message/GetOtherProfilesResponse.java" afterPath="$PROJECT_DIR$/cources.server/softgroup/services/profile/profile-api/src/main/java/com/softgroup/profile/api/message/GetOtherProfilesResponse.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cources.server/softgroup/services/profile/profile-api/src/main/java/com/softgroup/profile/api/message/GetProfileSettingsRequest.java" afterPath="$PROJECT_DIR$/cources.server/softgroup/services/profile/profile-api/src/main/java/com/softgroup/profile/api/message/GetProfileSettingsRequest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cources.server/softgroup/services/profile/profile-api/src/main/java/com/softgroup/profile/api/message/GetProfileSettingsResponse.java" afterPath="$PROJECT_DIR$/cources.server/softgroup/services/profile/profile-api/src/main/java/com/softgroup/profile/api/message/GetProfileSettingsResponse.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cources.server/softgroup/services/profile/profile-api/src/main/java/com/softgroup/profile/api/message/SetMyProfileRequest.java" afterPath="$PROJECT_DIR$/cources.server/softgroup/services/profile/profile-api/src/main/java/com/softgroup/profile/api/message/SetMyProfileRequest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cources.server/softgroup/services/profile/profile-api/src/main/java/com/softgroup/profile/api/message/SetMyProfileResponse.java" afterPath="$PROJECT_DIR$/cources.server/softgroup/services/profile/profile-api/src/main/java/com/softgroup/profile/api/message/SetMyProfileResponse.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cources.server/softgroup/services/profile/profile-api/src/main/java/com/softgroup/profile/api/message/SetProfileSettingsRequest.java" afterPath="$PROJECT_DIR$/cources.server/softgroup/services/profile/profile-api/src/main/java/com/softgroup/profile/api/message/SetProfileSettingsRequest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cources.server/softgroup/services/profile/profile-api/src/main/java/com/softgroup/profile/api/message/SetProfileSettingsResponse.java" afterPath="$PROJECT_DIR$/cources.server/softgroup/services/profile/profile-api/src/main/java/com/softgroup/profile/api/message/SetProfileSettingsResponse.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cources.server/softgroup/services/profile/profile-api/src/main/java/com/softgroup/profile/api/router/ProfilesRequestHandler.java" afterPath="$PROJECT_DIR$/cources.server/softgroup/services/profile/profile-api/src/main/java/com/softgroup/profile/api/router/ProfilesRequestHandler.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cources.server/softgroup/services/profile/profile-api/src/main/java/com/softgroup/profile/api/router/ProfilesRouterHandler.java" afterPath="$PROJECT_DIR$/cources.server/softgroup/services/profile/profile-api/src/main/java/com/softgroup/profile/api/router/ProfilesRouterHandler.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cources.server/softgroup/services/profile/profile-impl/pom.xml" afterPath="$PROJECT_DIR$/cources.server/softgroup/services/profile/profile-impl/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cources.server/softgroup/services/profile/profile-impl/src/main/java/com/softgroup/profile/impl/factory/ProfileHandlerFactory.java" afterPath="$PROJECT_DIR$/cources.server/softgroup/services/profile/profile-impl/src/main/java/com/softgroup/profile/impl/factory/ProfileHandlerFactory.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cources.server/softgroup/services/profile/profile-impl/src/main/java/com/softgroup/profile/impl/handler/ContactSyncHandler.java" afterPath="$PROJECT_DIR$/cources.server/softgroup/services/profile/profile-impl/src/main/java/com/softgroup/profile/impl/handler/ContactSyncHandler.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cources.server/softgroup/services/profile/profile-impl/src/main/java/com/softgroup/profile/impl/handler/GetContactProfilesHandler.java" afterPath="$PROJECT_DIR$/cources.server/softgroup/services/profile/profile-impl/src/main/java/com/softgroup/profile/impl/handler/GetContactProfilesHandler.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cources.server/softgroup/services/profile/profile-impl/src/main/java/com/softgroup/profile/impl/handler/GetLastTimeOnlineHandler.java" afterPath="$PROJECT_DIR$/cources.server/softgroup/services/profile/profile-impl/src/main/java/com/softgroup/profile/impl/handler/GetLastTimeOnlineHandler.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cources.server/softgroup/services/profile/profile-impl/src/main/java/com/softgroup/profile/impl/handler/GetMyProfileHandler.java" afterPath="$PROJECT_DIR$/cources.server/softgroup/services/profile/profile-impl/src/main/java/com/softgroup/profile/impl/handler/GetMyProfileHandler.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cources.server/softgroup/services/profile/profile-impl/src/main/java/com/softgroup/profile/impl/handler/GetOtherProfilesHandler.java" afterPath="$PROJECT_DIR$/cources.server/softgroup/services/profile/profile-impl/src/main/java/com/softgroup/profile/impl/handler/GetOtherProfilesHandler.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cources.server/softgroup/services/profile/profile-impl/src/main/java/com/softgroup/profile/impl/handler/GetProfileSettingsHandler.java" afterPath="$PROJECT_DIR$/cources.server/softgroup/services/profile/profile-impl/src/main/java/com/softgroup/profile/impl/handler/GetProfileSettingsHandler.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cources.server/softgroup/services/profile/profile-impl/src/main/java/com/softgroup/profile/impl/handler/SetMyProfileHandler.java" afterPath="$PROJECT_DIR$/cources.server/softgroup/services/profile/profile-impl/src/main/java/com/softgroup/profile/impl/handler/SetMyProfileHandler.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cources.server/softgroup/services/profile/profile-impl/src/main/java/com/softgroup/profile/impl/handler/SetProfileSettingsHandler.java" afterPath="$PROJECT_DIR$/cources.server/softgroup/services/profile/profile-impl/src/main/java/com/softgroup/profile/impl/handler/SetProfileSettingsHandler.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cources.server/softgroup/services/profile/profile-impl/src/main/java/com/softgroup/profile/impl/router/ProfileRouter.java" afterPath="$PROJECT_DIR$/cources.server/softgroup/services/profile/profile-impl/src/main/java/com/softgroup/profile/impl/router/ProfileRouter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/cources.server/softgroup/frontend/target/" />
     <ignored path="$PROJECT_DIR$/cources.server/softgroup/target/" />
@@ -85,88 +35,24 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
-      <file leaf-file-name="ProfileHandlerFactory.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cources.server/softgroup/services/profile/profile-impl/src/main/java/com/softgroup/profile/impl/factory/ProfileHandlerFactory.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="23" column="4" lean-forward="false" selection-start-line="23" selection-start-column="4" selection-end-line="43" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="AuthorizationRouter.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cources.server/softgroup/services/authorization/authorization-impl/src/main/java/com/softgroup/authorithation/impl/router/AuthorizationRouter.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="396">
-              <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+              <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HandlerFactory.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="HandlerFactory.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/cources.server/softgroup/basis/common-factory/src/main/java/com/softgroup/common/factory/HandlerFactory.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
-              <caret line="5" column="7" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+              <caret line="5" column="7" lean-forward="false" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HandlerFactoryType.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/cources.server/softgroup/basis/common-factory/src/main/java/com/softgroup/common/factory/HandlerFactoryType.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HadlerFactoryCommand.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cources.server/softgroup/basis/common-factory/src/main/java/com/softgroup/common/factory/HadlerFactoryCommand.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CoreRouter.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cources.server/softgroup/basis/common-router/src/main/java/com/softgroup/common/router/api/CoreRouter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="21" column="37" lean-forward="false" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CoreFactory.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cources.server/softgroup/basis/common-factory/src/main/java/com/softgroup/common/factory/CoreFactory.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ProfileRouter.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cources.server/softgroup/services/profile/profile-impl/src/main/java/com/softgroup/profile/impl/router/ProfileRouter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="726">
-              <caret line="36" column="0" lean-forward="true" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -484,110 +370,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="profile" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="profile-impl" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="softgroup" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="profile" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="impl" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="courses.server1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="softgroup" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="services" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="profile" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="profile-impl" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="softgroup" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="profile" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="impl" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="factory" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="courses.server1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="softgroup" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="services" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="authorization" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -717,60 +499,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="impl" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="courses.server1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="softgroup" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="services" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="authorization" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="authorization-impl" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="softgroup" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="authorithation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="impl" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="factory" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1490,7 +1218,7 @@
       <workItem from="1488448823593" duration="19431000" />
       <workItem from="1488471081072" duration="15559000" />
       <workItem from="1488526294019" duration="253000" />
-      <workItem from="1488526819930" duration="5708000" />
+      <workItem from="1488526819930" duration="6464000" />
     </task>
     <servers />
   </component>
@@ -1503,11 +1231,11 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="127538000" />
+    <option name="totallyTimeSpent" value="128294000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-16" y="-16" width="3232" height="1732" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1525,7 +1253,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.271875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.271875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1577,12 +1305,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
           <caret line="8" column="22" lean-forward="false" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
-          <folding>
-            <element signature="e#263#264#0" expanded="false" />
-            <element signature="e#294#295#0" expanded="false" />
-            <element signature="e#342#343#0" expanded="false" />
-            <element signature="e#382#383#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1590,12 +1313,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
           <caret line="8" column="23" lean-forward="false" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
-          <folding>
-            <element signature="e#266#267#0" expanded="false" />
-            <element signature="e#297#298#0" expanded="false" />
-            <element signature="e#345#346#0" expanded="false" />
-            <element signature="e#385#386#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1619,9 +1337,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
           <caret line="8" column="81" lean-forward="false" selection-start-line="8" selection-start-column="81" selection-end-line="8" selection-end-column="81" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1755,11 +1471,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="792">
           <caret line="24" column="1" lean-forward="false" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#569#570#0" expanded="true" />
-            <element signature="e#607#608#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1775,9 +1487,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="759">
           <caret line="25" column="1" lean-forward="false" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1793,9 +1503,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="759">
           <caret line="25" column="1" lean-forward="false" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1811,9 +1519,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="759">
           <caret line="25" column="1" lean-forward="false" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1829,9 +1535,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="759">
           <caret line="25" column="1" lean-forward="false" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1847,9 +1551,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="759">
           <caret line="25" column="1" lean-forward="false" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1865,9 +1567,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="759">
           <caret line="25" column="1" lean-forward="false" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1891,9 +1591,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="759">
           <caret line="25" column="1" lean-forward="false" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1965,9 +1663,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="462">
           <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1975,27 +1671,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="462">
           <caret line="21" column="37" lean-forward="false" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/cources.server/softgroup/services/authorization/authorization-impl/src/main/java/com/softgroup/authorithation/impl/router/AuthorizationRouter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
-          <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cources.server/softgroup/basis/common-factory/src/main/java/com/softgroup/common/factory/HandlerFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="5" column="7" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2012,6 +1696,16 @@
         <state relative-caret-position="330">
           <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cources.server/softgroup/basis/common-factory/src/main/java/com/softgroup/common/factory/HandlerFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="5" column="7" lean-forward="false" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

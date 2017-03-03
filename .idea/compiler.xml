@@ -20,7 +20,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="authorization" target="1.5" />
-      <module name="authorization-api" target="1.8" />
+      <module name="authorization-api" target="1.5" />
       <module name="authorization-impl" target="1.5" />
       <module name="basis" target="1.5" />
       <module name="common-datamapper" target="1.8" />
