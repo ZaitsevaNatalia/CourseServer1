@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cources.server/softgroup/services/authorization/authorization.iml" filepath="$PROJECT_DIR$/cources.server/softgroup/services/authorization/authorization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cources.server/softgroup/services/authorization/authorization-api/authorization-api.iml" filepath="$PROJECT_DIR$/cources.server/softgroup/services/authorization/authorization-api/authorization-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cources.server/softgroup/services/authorization/authorization-impl/authorization-impl.iml" filepath="$PROJECT_DIR$/cources.server/softgroup/services/authorization/authorization-impl/authorization-impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cources.server/softgroup/basis/basis.iml" filepath="$PROJECT_DIR$/cources.server/softgroup/basis/basis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cources.server/softgroup/basis/common-datamapper/common-datamapper.iml" filepath="$PROJECT_DIR$/cources.server/softgroup/basis/common-datamapper/common-datamapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cources.server/softgroup/basis/common-exceptions/common-exceptions.iml" filepath="$PROJECT_DIR$/cources.server/softgroup/basis/common-exceptions/common-exceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cources.server/softgroup/basis/common-factory/common-factory.iml" filepath="$PROJECT_DIR$/cources.server/softgroup/basis/common-factory/common-factory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cources.server/softgroup/basis/common-protocol/common-protocol.iml" filepath="$PROJECT_DIR$/cources.server/softgroup/basis/common-protocol/common-protocol.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cources.server/softgroup/basis/common-router/common-router.iml" filepath="$PROJECT_DIR$/cources.server/softgroup/basis/common-router/common-router.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cources.server/softgroup/basis/commonfactory.iml" filepath="$PROJECT_DIR$/cources.server/softgroup/basis/commonfactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/courses.server1.iml" filepath="$PROJECT_DIR$/.idea/courses.server1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cources.server/softgroup/frontend/frontend.iml" filepath="$PROJECT_DIR$/cources.server/softgroup/frontend/frontend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cources.server/softgroup/services/profile/profile.iml" filepath="$PROJECT_DIR$/cources.server/softgroup/services/profile/profile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cources.server/softgroup/services/profile/profile-api/profile-api.iml" filepath="$PROJECT_DIR$/cources.server/softgroup/services/profile/profile-api/profile-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cources.server/softgroup/services/profile/profile-impl/profile-impl.iml" filepath="$PROJECT_DIR$/cources.server/softgroup/services/profile/profile-impl/profile-impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cources.server/softgroup/services/services.iml" filepath="$PROJECT_DIR$/cources.server/softgroup/services/services.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cources.server/softgroup/softgroup.iml" filepath="$PROJECT_DIR$/cources.server/softgroup/softgroup.iml" />
+    </modules>
+  </component>
+</project>

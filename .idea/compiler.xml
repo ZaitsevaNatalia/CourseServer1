@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="authorization-api" />
+        <module name="authorization-impl" />
+        <module name="common-datamapper" />
+        <module name="common-exceptions" />
+        <module name="common-factory" />
+        <module name="common-protocol" />
+        <module name="common-router" />
+        <module name="common.factory" />
+        <module name="profile-api" />
+        <module name="profile-impl" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="authorization" target="1.5" />
+      <module name="authorization-api" target="1.8" />
+      <module name="authorization-impl" target="1.5" />
+      <module name="basis" target="1.5" />
+      <module name="common-datamapper" target="1.8" />
+      <module name="common-exceptions" target="1.8" />
+      <module name="common-factory" target="1.8" />
+      <module name="common-protocol" target="1.8" />
+      <module name="common-router" target="1.8" />
+      <module name="common.factory" target="1.5" />
+      <module name="commonfactory" target="1.5" />
+      <module name="frontend" target="1.5" />
+      <module name="profile" target="1.5" />
+      <module name="profile-api" target="1.5" />
+      <module name="profile-impl" target="1.5" />
+      <module name="services" target="1.5" />
+      <module name="softgroup" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

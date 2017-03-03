@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/cources.server/softgroup" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cources.server/softgroup/basis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cources.server/softgroup/basis/common-datamapper" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cources.server/softgroup/basis/common-exceptions" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cources.server/softgroup/basis/common-factory" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cources.server/softgroup/basis/common-protocol" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cources.server/softgroup/basis/common-router" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cources.server/softgroup/frontend" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cources.server/softgroup/services" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cources.server/softgroup/services/authorization" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cources.server/softgroup/services/authorization/authorization-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cources.server/softgroup/services/authorization/authorization-impl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cources.server/softgroup/services/profile" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cources.server/softgroup/services/profile/profile-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cources.server/softgroup/services/profile/profile-impl" charset="UTF-8" />
+  </component>
+</project>
